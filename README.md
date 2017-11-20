@@ -47,17 +47,18 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 > Tools for Ansible 
 
+- [Ansible Tower](https://www.ansible.com/tower) - Ansible Tower by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
 - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
+- [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower.
 - [Ansible Lint](https://github.com/willthames/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 - [ARA, Ansible Run Analysis](https://github.com/openstack/ara) - ARA records Ansible Playbook runs and makes the recorded data available and intuitive for users and systems.
-
 
 ## Blogposts and opinions
 
 > Opinions on Ansible
 
-- [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - best practice guidelines.
+- [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - Best practice guidelines.
 
 ## Cheat sheets
 
