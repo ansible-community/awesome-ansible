@@ -15,6 +15,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Tools](#tools)
 - [Blogposts and opinions](#blogposts-and-opinions)
 - [Cheat sheets](#cheat-sheets)
+- [Playbooks and Roles](#playbooks-and-roles)
 - [Uncategorized](#uncategorized)
 
 ## Official resources
@@ -28,13 +29,14 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 ## Tutorials
 
-> Tutorials and Courses to learn Ansible
+> Tutorials and Courses to learn Ansible.
 
-[Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?type=tutorials) - Some basic tutorials on DigitalOcean.com 
+[Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?type=tutorials) - Some basic tutorials on DigitalOcean.com
+[Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible
 
 ## Books
 
-> Books about Ansible
+> Books about Ansible.
 
 - [Ansible for DevOps](https://www.ansiblefordevops.com/) - Great Ansible Book, Free sample can be read [here](https://leanpub.com/ansible-for-devops/read_sample)
 
@@ -45,7 +47,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 ## Tools
 
-> Tools for Ansible 
+> Tools for and using Ansible.
 
 - [Ansible Tower](https://www.ansible.com/tower) - Ansible Tower by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
 - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
@@ -53,18 +55,32 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Ansible Lint](https://github.com/willthames/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 - [ARA, Ansible Run Analysis](https://github.com/openstack/ara) - ARA records Ansible Playbook runs and makes the recorded data available and intuitive for users and systems.
+- [Molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles.
+- [Packer  Ansible Provisioner](https://www.packer.io/docs/provisioners/ansible-local.html) - This Provisioner can be used to automate VM Image Creation via Packer with Ansible.
 
 ## Blogposts and opinions
 
-> Opinions on Ansible
+> Best Practices and other Opinions on Ansible.
 
 - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - Best practice guidelines.
+- [Ansible Best Practices by enginyoyen](https://github.com/enginyoyen/ansible-best-practises) - Some Best Practices for Ansible. 
 
 ## Cheat sheets
 
 > Structured Documents for fast and easy reference.
 
 - [Wall Skills - Ansible Cheat Sheet ](http://wall-skills.com/2014/ansible-cheat-sheet/)
+
+
+
+## Playbooks and Roles
+
+> Awesome Production ready Playbooks and Roles to get you up and running.
+
+- [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
+- [System Hardening Framework/Roles](https://galaxy.ansible.com/dev-sec/) - These Roles help you harden your Linux Based OS as well as MySQl, NginX and SSH Server/Services.
+- [Openstack Ansible](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://openstack.org).
+- [DebOps](https://debops.org/) - A extensive collection of Debian based Ansible Playbooks.
 
 ## Uncategorized
 
