@@ -76,6 +76,6 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 [![Public Domain](https://licensebuttons.net/l/publicdomain/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This list in itself is released into Public Domain, this does not necessarily apply to the Sites linked to in this list!
+This list in itself is released into Public Domain, this does not necessarily apply to the Sites linked to!
 
-Please respect the individual Copyright and Licenses of the Items linked to in this List.
+Please respect the individual Copyright and Licenses of the Items in this List.
