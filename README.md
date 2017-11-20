@@ -69,8 +69,8 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 > Ansible related Stuff that does not fit one of the other Categories.
 
-- [Ansible at Wikipedia ](https://de.wikipedia.org/wiki/Ansible)
-- [terraform.py](https://github.com/mantl/terraform.py) - Dynamic Inventory based on Terraform state files.
+- [Ansible at Wikipedia ](https://en.wikipedia.org/wiki/Ansible) - Ansible at Wikipedia.org
+- [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files 
 
 ## License / Disclaimer
 
