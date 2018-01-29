@@ -64,7 +64,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - Best practice guidelines.
 - [Ansible Best Practices by enginyoyen](https://github.com/enginyoyen/ansible-best-practises) - Some Best Practices for Ansible. 
-
+- [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester](https://github.com/pester/Pester/).
 ## Cheat sheets
 
 > Structured Documents for fast and easy reference.
