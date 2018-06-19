@@ -31,9 +31,9 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 > Tutorials and Courses to learn Ansible.
 
-[Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?type=tutorials) - Some basic tutorials on DigitalOcean.com
-[Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible
-[Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) - A list of recommended resources.
+- [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?type=tutorials) - Some basic tutorials on DigitalOcean.com
+- [Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible
+- [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) - A list of recommended resources.
 
 ## Books
 
