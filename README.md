@@ -58,6 +58,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [ARA, Ansible Run Analysis](https://github.com/openstack/ara) - ARA records Ansible Playbook runs and makes the recorded data available and intuitive for users and systems.
 - [Molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles.
 - [Packer  Ansible Provisioner](https://www.packer.io/docs/provisioners/ansible-local.html) - This Provisioner can be used to automate VM Image Creation via Packer with Ansible.
+- [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory
 
 ## Blogposts and opinions
 
