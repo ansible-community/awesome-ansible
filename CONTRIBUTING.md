@@ -11,7 +11,7 @@ Your contributions are always welcome!
 - Add a section if needed.
     - Add the section description.
     - Add the section title to Table of Contents.
-- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Search previous suggestions/issues before making a new one, to avoid duplicate suggestions.
 - Check your spelling and grammar.
 - Remove any trailing whitespace.
 - Send a Pull Request with the reason whe the suggested Resource is awesome.
