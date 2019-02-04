@@ -26,6 +26,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Latest Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/index.html) - Latest user guide and documentation for Ansible
 - [Ansible Galaxy Website](https://galaxy.ansible.com/) - Official Repository and community site for Ansible Roles.
 - [Ansible Blog](https://www.ansible.com/blog) - Official Ansible Blog
+- [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - Tutorials on how to Install and use Ansible
 
 ## Tutorials
 
@@ -43,8 +44,9 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 ## Videos
 
-[Ansible YouTube Channel](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg/videos) - Official Ansible YouTube channel
-[Introduction to Ansible](https://www.youtube.com/watch?v=iVWmbStE1MM) - Introduction to Ansible
+- [Ansible YouTube Channel](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg/videos) - Official Ansible YouTube channel
+- [Introduction to Ansible](https://www.youtube.com/watch?v=iVWmbStE1MM) - Introduction to Ansible
+- [Ansible TopTechSkills.com Tutorial Series on Youtube](https://www.youtube.com/watch?v=yiooWsMERaY&index=1&list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) Video Tutorials on Ansible
 
 ## Tools
 
