@@ -1,4 +1,4 @@
-# Awesome Ansible
+# Awesome Ansible [![Build Status](https://api.travis-ci.com/awesome-devops/awesome-ansible.svg?branch=master)](https://travis-ci.com/awesome-devops/awesome-ansible)
 
 [<img src="ansible_logo.svg" align="right" width="90">](https://www.ansible.com/)
 
@@ -52,13 +52,13 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 > Tools for and using Ansible.
 
-- [Ansible Tower](https://www.ansible.com/tower) - Ansible Tower by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
+- [Ansible Tower](https://www.ansible.com/products/tower) - Ansible Tower by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
 - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower.
-- [Ansible Lint](https://github.com/willthames/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
+- [Ansible Lint](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 - [ARA, Ansible Run Analysis](https://github.com/openstack/ara) - ARA records Ansible Playbook runs and makes the recorded data available and intuitive for users and systems.
-- [Molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles.
+- [Molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible roles.
 - [Packer  Ansible Provisioner](https://www.packer.io/docs/provisioners/ansible-local.html) - This Provisioner can be used to automate VM Image Creation via Packer with Ansible.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory
 
@@ -75,9 +75,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 > Structured Documents for fast and easy reference.
 
-- [Wall Skills - Ansible Cheat Sheet ](http://wall-skills.com/2014/ansible-cheat-sheet/)
-
-
+- [Wall Skills - Ansible Cheat Sheet](http://wall-skills.com/2014/ansible-cheat-sheet/)
 
 ## Playbooks and Roles
 
@@ -85,14 +83,13 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 - [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [System Hardening Framework/Roles](https://galaxy.ansible.com/dev-sec/) - These Roles help you harden your Linux Based OS as well as MySQl, NginX and SSH Server/Services.
-- [Openstack Ansible](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://openstack.org).
-- [DebOps](https://debops.org/) - A extensive collection of Debian based Ansible Playbooks.
+- [Openstack Ansible](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
+- [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
 
 ## Uncategorized
 
 > Ansible related Stuff that does not fit one of the other Categories.
-
-- [Ansible at Wikipedia ](https://en.wikipedia.org/wiki/Ansible) - Ansible at Wikipedia.org
+- [Ansible at Wikipedia](https://en.wikipedia.org/wiki/Ansible) - Ansible at Wikipedia.org
 - [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
 
 ## License / Disclaimer
