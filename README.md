@@ -26,6 +26,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Latest Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/index.html) - Latest user guide and documentation for Ansible
 - [Ansible Galaxy Website](https://galaxy.ansible.com/) - Official Repository and community site for Ansible Roles.
 - [Ansible Blog](https://www.ansible.com/blog) - Official Ansible Blog
+- [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - Tutorials on how to Install and use Ansible
 
 ## Tutorials
 
@@ -43,8 +44,9 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 ## Videos
 
-[Ansible YouTube Channel](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg/videos) - Official Ansible YouTube channel
-[Introduction to Ansible](https://www.youtube.com/watch?v=iVWmbStE1MM) - Introduction to Ansible
+- [Ansible YouTube Channel](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg/videos) - Official Ansible YouTube channel
+- [Introduction to Ansible](https://www.youtube.com/watch?v=iVWmbStE1MM) - Introduction to Ansible
+- [Ansible TopTechSkills.com Tutorial Series on Youtube](https://www.youtube.com/watch?v=yiooWsMERaY&index=1&list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) Video Tutorials on Ansible
 
 ## Tools
 
@@ -65,7 +67,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 > Best Practices and other Opinions on Ansible.
 
 - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - Best practice guidelines.
-- [Ansible Best Practices by enginyoyen](https://github.com/enginyoyen/ansible-best-practises) - Some Best Practices for Ansible. 
+- [Ansible Best Practices by enginyoyen](https://github.com/enginyoyen/ansible-best-practises) - Some Best Practices for Ansible.
 - [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester](https://github.com/pester/Pester/).
 - [Ansible Best Practices by AndiDog](https://andidog.de/blog/2017-04-24-ansible-best-practices) - Practices covering many aspects of an Ansible setup, including hints to support different environments (testing, staging, production).
 
@@ -91,7 +93,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 > Ansible related Stuff that does not fit one of the other Categories.
 
 - [Ansible at Wikipedia ](https://en.wikipedia.org/wiki/Ansible) - Ansible at Wikipedia.org
-- [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files 
+- [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files
 
 ## License / Disclaimer
 
