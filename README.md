@@ -58,6 +58,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Ansible Lint](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 - [ARA, Ansible Run Analysis](https://github.com/openstack/ara) - ARA records Ansible Playbook runs and makes the recorded data available and intuitive for users and systems.
+- [Mitogen for Ansible](https://networkgenomics.com/ansible/) - Speed up Ansible substantially with Mitogen.
 - [Molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible roles.
 - [Packer  Ansible Provisioner](https://www.packer.io/docs/provisioners/ansible-local.html) - This Provisioner can be used to automate VM Image Creation via Packer with Ansible.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory
