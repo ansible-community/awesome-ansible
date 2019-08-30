@@ -53,10 +53,10 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Ansible Tower](https://www.ansible.com/products/tower) - Ansible Tower by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
 - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
 - [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower.
-- [Ansible Lint](https://github.com/willthames/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
+- [Ansible Lint](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
-- [ARA, Ansible Run Analysis](https://github.com/openstack/ara) - ARA records Ansible Playbook runs and makes the recorded data available and intuitive for users and systems.
-- [Molecule](https://github.com/metacloud/molecule) - Molecule aids in the development and testing of Ansible roles.
+- [ARA, Ansible Run Analysis](https://github.com/ansible-community/ara) - ARA records Ansible Playbook runs and makes the recorded data available and intuitive for users and systems.
+- [Molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible roles.
 - [Packer  Ansible Provisioner](https://www.packer.io/docs/provisioners/ansible-local.html) - This Provisioner can be used to automate VM Image Creation via Packer with Ansible.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory
 - [Rundeck](https://www.rundeck.com/open-source) - Rundeck is an open source automation service with a web console, command line tools and a WebAPI. It lets you easily run automation tasks across a set of nodes.
