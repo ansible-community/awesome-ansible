@@ -85,6 +85,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 - [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [System Hardening Framework/Roles](https://galaxy.ansible.com/dev-sec/) - These Roles help you harden your Linux Based OS as well as MySQl, NginX and SSH Server/Services.
+- [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 - [Openstack Ansible](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
 - [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
 
