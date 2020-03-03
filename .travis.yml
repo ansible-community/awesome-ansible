@@ -8,5 +8,5 @@ before_script:
   - gem install mdl
 
 script:
-- awesome_bot README.md --allow-dupe  # Allow duplicate links
+- awesome_bot README.md --allow-dupe --allow 302   # Allow duplicate links and "Moved Temporarily" Redirects
 - mdl --rules ~MD013,~MD033 README.md # Ignore line length (MD013) and inline HTML (MD033) Rules
