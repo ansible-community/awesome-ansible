@@ -1,4 +1,4 @@
-# Awesome Ansible [![Build Status](https://travis-ci.org/KeyboardInterrupt/awesome-ansible.svg?branch=master)](https://travis-ci.com/awesome-devops/awesome-ansible)
+# Awesome Ansible [![Build Status](https://api.travis-ci.org/KeyboardInterrupt/awesome-ansible.svg?branch=master)](https://travis-ci.com/awesome-devops/awesome-ansible)
 
 [<img src="ansible_logo.svg" align="right" width="90">](https://www.ansible.com/)
 
