@@ -46,7 +46,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 - [Ansible YouTube Channel](https://www.youtube.com/channel/UCeImQ-jeVhzgLJd9wsqo8Sg/videos) - Official Ansible YouTube channel
 - [Introduction to Ansible](https://www.youtube.com/watch?v=iVWmbStE1MM) - Introduction to Ansible
-- [Ansible TopTechSkills.com Tutorial Series on Youtube](https://www.youtube.com/watch?v=yiooWsMERaY&index=1&list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) Video Tutorials on Ansible
+- [Ansible TopTechSkills.com Tutorial Series on Youtube](https://www.youtube.com/watch?v=yiooWsMERaY&list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) Video Tutorials on Ansible
 
 ## Tools
 
