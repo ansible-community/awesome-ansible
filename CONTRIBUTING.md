@@ -14,4 +14,4 @@ Your contributions are always welcome!
 - Search previous suggestions/issues before making a new one, to avoid duplicate suggestions.
 - Check your spelling and grammar.
 - Remove any trailing whitespace.
-- Send a Pull Request with the reason whe the suggested Resource is awesome.
+- Send a Pull Request with the reason why the suggested Resource is awesome.
