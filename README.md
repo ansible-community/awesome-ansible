@@ -1,6 +1,6 @@
 # Awesome Ansible [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="ansible_logo.svg" align="right" width="90">](https://www.ansible.com/)
+<img src="ansible_logo.svg" align="right" width="90">
 
 > A collaborative curated list of awesome Ansible resources, tools, Roles, tutorials and other related stuff.
 
@@ -27,6 +27,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Ansible Galaxy Website](https://galaxy.ansible.com/) - Official Repository and community site for Ansible Roles.
 - [Ansible Blog](https://www.ansible.com/blog) - Official Ansible Blog.
 - [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - Tutorials on how to Install and use Ansible.
+
 ## Tutorials
 
 > Tutorials and Courses to learn Ansible.
@@ -45,7 +46,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 - [Ansible YouTube Channel](https://www.youtube.com/channel/UCPJo5UY1KsP7J1BuHmiWNzQ) - Official Ansible YouTube channel.
 - [Introduction to Ansible](https://youtu.be/iVWmbStE1MM) - Introduction to Ansible by Cloud Academy.
-- [Ansible TopTechSkills.com Tutorial Series on Youtube](https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) - Video Tutorials on Ansible.
+- [Ansible TopTechSkills.com Tutorial Series on YouTube](https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) - Video Tutorials on Ansible.
 
 ## Tools
 
