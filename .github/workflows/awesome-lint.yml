@@ -5,6 +5,7 @@ on:
     types: [opened, synchronize]
     branches:
       - master
+      - main
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
