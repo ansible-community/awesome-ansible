@@ -14,7 +14,6 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Videos](#videos)
 - [Tools](#tools)
 - [Blogposts and opinions](#blogposts-and-opinions)
-- [Cheat sheets](#cheat-sheets)
 - [Playbooks and Roles](#playbooks-and-roles)
 - [Uncategorized](#uncategorized)
 
@@ -26,7 +25,6 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Latest Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/index.html) - Latest user guide and documentation for Ansible.
 - [Ansible Galaxy Website](https://galaxy.ansible.com/) - Official Repository and community site for Ansible Roles.
 - [Ansible Blog](https://www.ansible.com/blog) - Official Ansible Blog.
-- [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - Tutorials on how to Install and use Ansible.
 
 ## Tutorials
 
@@ -35,6 +33,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?subtype=tutorial) - Some basic tutorials on DigitalOcean.com.
 - [Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
 - [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) - A list of recommended resources.
+- [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - Tutorials on how to Install and use Ansible.
 
 ## Books
 
@@ -54,32 +53,23 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 - [Ansible Tower](https://www.ansible.com/products/tower) - Ansible Tower by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
 - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
-- [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower.
 - [Ansible Lint](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
 - [Ansible Later](https://github.com/xoxys/ansible-later) - Another best practice scanner. Checks Playbooks and Roles for best practices and behavior that could potentially be improved.
 - [Ansible Doctor](https://github.com/xoxys/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 - [ARA, Ansible Run Analysis](https://github.com/ansible-community/ara) - ARA records Ansible Playbook runs and makes the recorded data available and intuitive for users and systems.
-- [Mitogen for Ansible](https://networkgenomics.com/ansible/) - Speed up Ansible substantially with Mitogen.
-- [Molecule]( https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles.
+- [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) - Speed up Ansible substantially with Mitogen.
+- [Molecule](https://molecule.readthedocs.io/en/latest/) - Molecule aids in the development and testing of Ansible roles.
 - [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - This Provisioner can be used to automate VM Image Creation via Packer with Ansible.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
-- [Rundeck](https://www.rundeck.com/open-source) - Rundeck is an open source automation service with a web console, command line tools and a WebAPI. It lets you easily run automation tasks across a set of nodes.
 
 ## Blogposts and opinions
 
 > Best Practices and other Opinions on Ansible.
 
 - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - Best practice guidelines.
-- [Ansible Best Practices by enginyoyen](https://github.com/enginyoyen/ansible-best-practises) - Some Best Practices for Ansible.
 - [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester](https://github.com/pester/Pester/).
 - [Ansible Best Practices by AndiDog](https://andidog.de/blog/2017-04-24-ansible-best-practices) - Practices covering many aspects of an Ansible setup, including hints to support different environments (testing, staging, production).
-
-## Cheat sheets
-
-> Structured Documents for fast and easy reference.
-
-- [Wall Skills - Ansible Cheat Sheet](http://wall-skills.com/2014/ansible-cheat-sheet/)
 
 ## Playbooks and Roles
 
@@ -96,5 +86,4 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 > Ansible related Stuff that does not fit one of the other Categories.
 
-- [Ansible at Wikipedia](https://en.wikipedia.org/wiki/Ansible) - Ansible at Wikipedia.org.
 - [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
