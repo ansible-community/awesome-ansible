@@ -14,7 +14,6 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Videos](#videos)
 - [Tools](#tools)
 - [Blogposts and opinions](#blogposts-and-opinions)
-- [Cheat sheets](#cheat-sheets)
 - [Playbooks and Roles](#playbooks-and-roles)
 - [Uncategorized](#uncategorized)
 
@@ -71,12 +70,6 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - Best practice guidelines.
 - [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester](https://github.com/pester/Pester/).
 - [Ansible Best Practices by AndiDog](https://andidog.de/blog/2017-04-24-ansible-best-practices) - Practices covering many aspects of an Ansible setup, including hints to support different environments (testing, staging, production).
-
-## Cheat sheets
-
-> Structured Documents for fast and easy reference.
-
-- [Wall Skills - Ansible Cheat Sheet](http://wall-skills.com/2014/ansible-cheat-sheet/)
 
 ## Playbooks and Roles
 
