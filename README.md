@@ -60,7 +60,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
 - [ARA, Ansible Run Analysis](https://github.com/ansible-community/ara) - ARA records Ansible Playbook runs and makes the recorded data available and intuitive for users and systems.
 - [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) - Speed up Ansible substantially with Mitogen.
-- [Molecule]( https://github.com/ansible-community/molecule) - Molecule aids in the development and testing of Ansible roles.
+- [Molecule](https://molecule.readthedocs.io/en/latest/) - Molecule aids in the development and testing of Ansible roles.
 - [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - This Provisioner can be used to automate VM Image Creation via Packer with Ansible.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 - [Rundeck](https://www.rundeck.com/open-source) - Rundeck is an open source automation service with a web console, command line tools and a WebAPI. It lets you easily run automation tasks across a set of nodes.
