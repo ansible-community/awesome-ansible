@@ -26,7 +26,6 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Latest Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/index.html) - Latest user guide and documentation for Ansible.
 - [Ansible Galaxy Website](https://galaxy.ansible.com/) - Official Repository and community site for Ansible Roles.
 - [Ansible Blog](https://www.ansible.com/blog) - Official Ansible Blog.
-- [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - Tutorials on how to Install and use Ansible.
 
 ## Tutorials
 
@@ -35,6 +34,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?subtype=tutorial) - Some basic tutorials on DigitalOcean.com.
 - [Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
 - [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) - A list of recommended resources.
+- [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - Tutorials on how to Install and use Ansible.
 
 ## Books
 
@@ -54,7 +54,6 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 - [Ansible Tower](https://www.ansible.com/products/tower) - Ansible Tower by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
 - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
-- [semaphore](https://github.com/ansible-semaphore/semaphore) - Open Source alternative to Ansible Tower.
 - [Ansible Lint](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
 - [Ansible Later](https://github.com/xoxys/ansible-later) - Another best practice scanner. Checks Playbooks and Roles for best practices and behavior that could potentially be improved.
 - [Ansible Doctor](https://github.com/xoxys/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
