@@ -39,8 +39,8 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 > Books about Ansible.
 
-- [Ansible for DevOps](https://www.ansiblefordevops.com/) - Great Ansible Book, Free sample can be read [here](https://leanpub.com/ansible-for-devops/read_sample).
-
+- [Ansible for DevOps](https://www.ansiblefordevops.com/) - This book helps to start using Ansible to provision and manage anywhere from one to thousands of servers. Free sample can be read [here](https://leanpub.com/ansible-for-devops/read_sample).
+- [Ansible for Kubernetes](https://www.ansibleforkubernetes.com/) - Deploy and maintain real-world massively-scalable and high-available applications with Ansible.
 ## Videos
 
 - [Ansible YouTube Channel](https://www.youtube.com/channel/UCPJo5UY1KsP7J1BuHmiWNzQ) - Official Ansible YouTube channel.
