@@ -13,7 +13,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Books](#books)
 - [Videos](#videos)
 - [Tools](#tools)
-- [Blogposts and opinions](#blogposts-and-opinions)
+- [Blog posts and opinions](#blog-posts-and-opinions)
 - [Playbooks and Roles](#playbooks-and-roles)
 - [Uncategorized](#uncategorized)
 
@@ -41,7 +41,10 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 - [Ansible for DevOps](https://www.ansiblefordevops.com/) - This book helps to start using Ansible to provision and manage anywhere from one to thousands of servers. Free sample can be read [here](https://leanpub.com/ansible-for-devops/read_sample).
 - [Ansible for Kubernetes](https://www.ansibleforkubernetes.com/) - Deploy and maintain real-world massively-scalable and high-available applications with Ansible.
+
 ## Videos
+
+> Video Tutorials and Ansible Training.
 
 - [Ansible YouTube Channel](https://www.youtube.com/channel/UCPJo5UY1KsP7J1BuHmiWNzQ) - Official Ansible YouTube channel.
 - [Introduction to Ansible](https://youtu.be/iVWmbStE1MM) - Introduction to Ansible by Cloud Academy.
@@ -64,7 +67,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - This Provisioner can be used to automate VM Image Creation via Packer with Ansible.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 
-## Blogposts and opinions
+## Blog posts and opinions
 
 > Best Practices and other Opinions on Ansible.
 
