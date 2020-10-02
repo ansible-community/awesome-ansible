@@ -1,11 +1,11 @@
 # Awesome Ansible [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-<img src="ansible_logo.svg" align="right" width="90">
+<!--lint disable double-link-->
+[<img src="ansible_logo.svg" align="right" width="90">](https://www.ansible.com/)
 
 > A collaborative curated list of awesome Ansible resources, tools, Roles, tutorials and other related stuff.
 
-Ansible is an open source toolkit, written in Python, it is used for  Configuration Management, Application Deployment, Continuous Delivery, IT infrastructure automation and automation in general.
-
+[Ansible](https://www.ansible.com/) is an open source toolkit, written in Python, it is used for  configuration management, application deployment, continuous delivery, IT infrastructure automation and automation in general.
+<!--lint enable double-link-->
 ## Contents
 
 - [Official resources](#official-resources)
@@ -15,22 +15,20 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [Tools](#tools)
 - [Blog posts and opinions](#blog-posts-and-opinions)
 - [Playbooks and Roles](#playbooks-and-roles)
-- [Uncategorized](#uncategorized)
 
 ## Official resources
 
-> Official Resources by and for Ansible.
+> Official resources by and for Ansible.
 
-- [Ansible Site](https://www.ansible.com/) - Ansible Company Site.
 - [Latest Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/index.html) - Latest user guide and documentation for Ansible.
-- [Ansible Galaxy Website](https://galaxy.ansible.com/) - Official Repository and community site for Ansible Roles.
-- [Ansible Blog](https://www.ansible.com/blog) - Official Ansible Blog.
+- [Ansible Galaxy Website](https://galaxy.ansible.com/) - Official repository and community site for Ansible Roles.
+- [Ansible Blog](https://www.ansible.com/blog) - Official Ansible blog.
 
 ## Tutorials
 
-> Tutorials and Courses to learn Ansible.
+> Tutorials and courses to learn Ansible.
 
-- [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?subtype=tutorial) - Some basic tutorials on DigitalOcean.com.
+- [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?subtype=tutorial) - Basic tutorials on DigitalOcean.com.
 - [Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
 - [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) - A list of recommended resources.
 - [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - Tutorials on how to Install and use Ansible.
@@ -44,12 +42,12 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 ## Videos
 
-> Video Tutorials and Ansible Training.
+> Video tutorials and Ansible training.
 
 - [Ansible YouTube Channel](https://www.youtube.com/channel/UCPJo5UY1KsP7J1BuHmiWNzQ) - Official Ansible YouTube channel.
 - [Introduction to Ansible](https://youtu.be/iVWmbStE1MM) - Introduction to Ansible by Cloud Academy.
-- [Ansible 101 by Jeff Geerling](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series) - Great Video Series on Ansible, by Jeff Geerling.
-- [Ansible TopTechSkills.com Tutorial Series on YouTube](https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) - Video Tutorials on Ansible.
+- [Ansible 101 by Jeff Geerling](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series) - Great video series on Ansible, by Jeff Geerling.
+- [Ansible TopTechSkills.com Tutorial Series on YouTube](https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) - Video tutorials on Ansible.
 
 ## Tools
 
@@ -64,12 +62,13 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [ARA, Ansible Run Analysis](https://github.com/ansible-community/ara) - ARA records Ansible Playbook runs and makes the recorded data available and intuitive for users and systems.
 - [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) - Speed up Ansible substantially with Mitogen.
 - [Molecule](https://molecule.readthedocs.io/en/latest/) - Molecule aids in the development and testing of Ansible roles.
-- [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - This Provisioner can be used to automate VM Image Creation via Packer with Ansible.
+- [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
+- [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 
 ## Blog posts and opinions
 
-> Best Practices and other Opinions on Ansible.
+> Best practices and other ppinions on Ansible.
 
 - [Ansible (Real Life) Good Practices](https://reinteractive.com/posts/167-ansible-real-life-good-practices) - Best practice guidelines.
 - [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester](https://github.com/pester/Pester/).
@@ -77,7 +76,7 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 
 ## Playbooks and Roles
 
-> Awesome Production ready Playbooks and Roles to get you up and running.
+> Awesome production ready Playbooks and Roles to get you up and running.
 
 - [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
@@ -85,9 +84,3 @@ Ansible is an open source toolkit, written in Python, it is used for  Configurat
 - [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 - [Openstack Ansible](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
 - [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
-
-## Uncategorized
-
-> Ansible related Stuff that does not fit one of the other Categories.
-
-- [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
