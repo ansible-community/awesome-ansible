@@ -20,7 +20,6 @@
 
 > Official resources by and for Ansible.
 
-- [Ansible Site](https://www.ansible.com/) - Ansible company site.
 - [Latest Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/index.html) - Latest user guide and documentation for Ansible.
 - [Ansible Galaxy Website](https://galaxy.ansible.com/) - Official repository and community site for Ansible Roles.
 - [Ansible Blog](https://www.ansible.com/blog) - Official Ansible blog.
