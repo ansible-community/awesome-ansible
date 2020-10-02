@@ -1,11 +1,11 @@
 # Awesome Ansible [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+<!--lint disable double-link-->
 [<img src="ansible_logo.svg" align="right" width="90">](https://www.ansible.com/)
 
 > A collaborative curated list of awesome Ansible resources, tools, Roles, tutorials and other related stuff.
 
 [Ansible](https://www.ansible.com/) is an open source toolkit, written in Python, it is used for  configuration management, application deployment, continuous delivery, IT infrastructure automation and automation in general.
-
+<!--lint enable double-link-->
 ## Contents
 
 - [Official resources](#official-resources)
