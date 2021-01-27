@@ -32,6 +32,7 @@
 - [Ansible Tutorial by leucos](https://github.com/leucos/ansible-tuto) - 12 Step Tutorial for Ansible.
 - [Programming Community Curated Resources for learning Ansible](https://hackr.io/tutorials/learn-ansible) - A list of recommended resources.
 - [Ansible TopTechSkills.com Tutorial Series on Ansible](https://www.toptechskills.com/ansible-tutorials-courses/) - Tutorials on how to Install and use Ansible.
+- [Official Ansible labs by Red Hat](https://ansible.github.io/workshops/exercises/ansible_rhel/) - Training Course for Ansible Automation Platform.
 
 ## Books
 
@@ -48,6 +49,7 @@
 - [Introduction to Ansible](https://youtu.be/iVWmbStE1MM) - Introduction to Ansible by Cloud Academy.
 - [Ansible 101 by Jeff Geerling](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series) - Great video series on Ansible, by Jeff Geerling.
 - [Ansible TopTechSkills.com Tutorial Series on YouTube](https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) - Video tutorials on Ansible.
+- [Ansible Essentials - Course](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview) - Free Video Classroom on Ansible essentials by Red Hat.
 
 ## Tools
 
