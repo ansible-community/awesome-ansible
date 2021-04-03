@@ -52,6 +52,7 @@
 - [Ansible 101 by Jeff Geerling](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series) - Great video series on Ansible, by Jeff Geerling.
 - [Ansible TopTechSkills.com Tutorial Series on YouTube](https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) - Video tutorials on Ansible.
 - [Ansible Essentials - Course](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview) - Free Video Classroom on Ansible essentials by Red Hat.
+- [Complete Ansible Course 2020 by DevOps Journey](https://www.youtube.com/watch?v=KuiAiUyuDY4&list=PLnFWJCugpwfzTlIJ-JtuATD2MBBD7_m3u&index=1) - Free Video Course on Ansible including labs to follow along.
 
 ## Tools
 
