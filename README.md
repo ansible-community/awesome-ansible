@@ -64,7 +64,7 @@
 - [Ansible Later](https://github.com/thegeeklab/ansible-later) - Another best practice scanner. Checks Playbooks and Roles for best practices and behavior that could potentially be improved.
 - [Ansible Doctor](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
-- [ARA, Ansible Run Analysis](https://github.com/ansible-community/ara) - ARA records Ansible Playbook runs and makes the recorded data available and intuitive for users and systems.
+- [ARA](https://github.com/ansible-community/ara) - ARA Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.
 - [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) - Speed up Ansible substantially with Mitogen.
 - [Molecule](https://molecule.readthedocs.io/en/latest/) - Molecule aids in the development and testing of Ansible roles.
 - [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
