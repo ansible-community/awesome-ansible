@@ -9,6 +9,7 @@
 ## Contents
 
 - [Official resources](#official-resources)
+- [Community](#community)
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Videos](#videos)
@@ -23,6 +24,16 @@
 - [Latest Ansible Documentation](https://docs.ansible.com/ansible/latest/user_guide/index.html) - Latest user guide and documentation for Ansible.
 - [Ansible Galaxy Website](https://galaxy.ansible.com/) - Official repository and community site for Ansible Roles.
 - [Ansible Blog](https://www.ansible.com/blog) - Official Ansible blog.
+
+## Community
+
+> Places where to chat with the Ansible community
+
+- About code - [GitHub.com/ansible](https://github.com/ansible), [GitHub.com/ansible-collections](https://github.com/ansible-collections) and [GitHub.com/ansible-community](https://github.com/ansible-community).
+- [IRC](https://docs.ansible.com/ansible/latest/community/communication.html#irc-channels) - #ansible, #ansible-devel and #ansible-community amongst others on [libera.chat](https://libera.chat/).
+- [reddit.com/r/ansible](https://old.reddit.com/r/ansible/) - The Ansible subreddit.
+- [Discord](https://old.reddit.com/r/ansible/comments/jv5shj/ansible_discord_server_come_get_ansible_help_in/) - The Ansible discord.
+- [ansible.com/community](https://ansible.com/community) - Twitter, mailing lists, meetups and more.
 
 ## Tutorials
 
