@@ -78,10 +78,11 @@
 - [ARA](https://github.com/ansible-community/ara) - ARA Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.
 - [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) - Speed up Ansible substantially with Mitogen.
 - [Molecule](https://molecule.readthedocs.io/en/latest/) - Molecule aids in the development and testing of Ansible roles.
-- [Packer  Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
+- [Packer Ansible Provisioner](https://packer.io/docs/provisioners/ansible-local.html ) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 - [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 - [ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
+- [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Ansible Tower job templates.
 
 ## Blog posts and opinions
 
