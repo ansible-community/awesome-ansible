@@ -8,14 +8,16 @@
 <!--lint enable double-link-->
 ## Contents
 
-- [Official resources](#official-resources)
-- [Community](#community)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Videos](#videos)
-- [Tools](#tools)
-- [Blog posts and opinions](#blog-posts-and-opinions)
-- [Playbooks and Roles](#playbooks-and-roles)
+- [Awesome Ansible ![Awesome](https://awesome.re)](#awesome-ansible-)
+  - [Contents](#contents)
+  - [Official resources](#official-resources)
+  - [Community](#community)
+  - [Tutorials](#tutorials)
+  - [Books](#books)
+  - [Videos](#videos)
+  - [Tools](#tools)
+  - [Blog posts and opinions](#blog-posts-and-opinions)
+  - [Playbooks and Roles](#playbooks-and-roles)
 
 ## Official resources
 
@@ -83,6 +85,9 @@
 - [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 - [ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
 - [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Ansible Tower job templates.
+- [ansible-builder]
+- [ansible-bender]
+- [ansible-navigator]
 
 ## Blog posts and opinions
 
