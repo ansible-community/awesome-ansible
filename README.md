@@ -8,8 +8,6 @@
 <!--lint enable double-link-->
 ## Contents
 
-- [Awesome Ansible ![Awesome](https://awesome.re)](#awesome-ansible-)
-  - [Contents](#contents)
   - [Official resources](#official-resources)
   - [Community](#community)
   - [Tutorials](#tutorials)
