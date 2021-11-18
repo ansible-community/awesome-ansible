@@ -8,14 +8,14 @@
 <!--lint enable double-link-->
 ## Contents
 
-  - [Official resources](#official-resources)
-  - [Community](#community)
-  - [Tutorials](#tutorials)
-  - [Books](#books)
-  - [Videos](#videos)
-  - [Tools](#tools)
-  - [Blog posts and opinions](#blog-posts-and-opinions)
-  - [Playbooks and Roles](#playbooks-and-roles)
+- [Official resources](#official-resources)
+- [Community](#community)
+- [Tutorials](#tutorials)
+- [Books](#books)
+- [Videos](#videos)
+- [Tools](#tools)
+- [Blog posts and opinions](#blog-posts-and-opinions)
+- [Playbooks and Roles](#playbooks-and-roles)
 
 ## Official resources
 
