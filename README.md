@@ -8,14 +8,16 @@
 <!--lint enable double-link-->
 ## Contents
 
-- [Official resources](#official-resources)
-- [Community](#community)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Videos](#videos)
-- [Tools](#tools)
-- [Blog posts and opinions](#blog-posts-and-opinions)
-- [Playbooks and Roles](#playbooks-and-roles)
+- [Awesome Ansible ![Awesome](https://awesome.re)](#awesome-ansible-)
+  - [Contents](#contents)
+  - [Official resources](#official-resources)
+  - [Community](#community)
+  - [Tutorials](#tutorials)
+  - [Books](#books)
+  - [Videos](#videos)
+  - [Tools](#tools)
+  - [Blog posts and opinions](#blog-posts-and-opinions)
+  - [Playbooks and Roles](#playbooks-and-roles)
 
 ## Official resources
 
@@ -87,6 +89,7 @@
 - [ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
 - [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/) - Using Ansible content that depends on non-default dependencies can be tricky. Packages must be installed on each node, play nicely with other software installed on the host system, and be kept in sync.
 - [ansible-toolset](https://github.com/ansible-community/toolset) - Ansible Toolset combines all ansible development tools in a single container: ansible, ansible-lint and molecule.
+- [StackStorm](https://github.com/stackstorm/st2) - StackStorm is a platform for integration and automation across services and tools. It ties together your existing infrastructure and application environment so you can more easily automate that environment -- with a particular focus on taking actions in response to events.
 
 ## Blog posts and opinions
 
