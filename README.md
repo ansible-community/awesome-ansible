@@ -87,6 +87,7 @@
 - [ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
 - [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/) - Using Ansible content that depends on non-default dependencies can be tricky. Packages must be installed on each node, play nicely with other software installed on the host system, and be kept in sync.
 - [ansible-toolset](https://github.com/ansible-community/toolset) - Ansible Toolset combines all ansible development tools in a single container: ansible, ansible-lint and molecule.
+- [AnsibleSnippets-VSCode](https://github.com/IronTooch/AnsibleSnippets-VSCode) - A collection of VS Code snippets that encompass common Ansible Module Patterns.
 
 ## Blog posts and opinions
 
