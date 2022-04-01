@@ -112,4 +112,4 @@
 - [Openstack Ansible](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
 - [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
 - [ansible-ssm](https://github.com/HQarroum/ansible-ssm) - An ansible role to provision physical and virtual hosts with the AWS SSM agent.
-- [BlueBanquise CORE](https://github.com/bluebanquise/bluebanquise) and [BlueBanquise COMMUNITY](https://github.com/bluebanquise/community) - An ansible coherent roles collection to deploy clusters.
+- [BlueBanquise](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
