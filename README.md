@@ -16,6 +16,7 @@
 - [Tools](#tools)
 - [Blog posts and opinions](#blog-posts-and-opinions)
 - [Playbooks and Roles](#playbooks-and-roles)
+- [Editor and IDE Integrations](#editor-and-ide-integrations)
 
 ## Official resources
 
@@ -113,3 +114,11 @@
 - [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
 - [ansible-ssm](https://github.com/HQarroum/ansible-ssm) - An ansible role to provision physical and virtual hosts with the AWS SSM agent.
 - [BlueBanquise](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
+
+## Editor and IDE Integrations
+
+> Awesome Integrations into Text Editors and IDE's to make development with/for Ansible easier.
+
+- [Ansible Language Server](https://github.com/ansible/ansible-language-server) - Language Server that adds support for Ansible, to compatible Editors.
+- [Emacs - Ansible client for Language Server Protocol](https://emacs-lsp.github.io/lsp-mode/page/lsp-ansible/) - Emacs support for Ansible Language Server Protocol.
+- [VS Code - official Ansible Extension](https://marketplace.visualstudio.com/items?itemName=redhat.ansible) - Adds language support for Ansible to Visual Studio Code and OpenVSX compatible editors by leveraging ansible-language-server.
