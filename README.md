@@ -30,9 +30,9 @@
 > Places where to chat with the Ansible community
 
 - About code - [GitHub.com/ansible](https://github.com/ansible), [GitHub.com/ansible-collections](https://github.com/ansible-collections) and [GitHub.com/ansible-community](https://github.com/ansible-community).
-- [IRC](https://docs.ansible.com/ansible/latest/community/communication.html#irc-channels) - #ansible, #ansible-devel and #ansible-community amongst others on [libera.chat](https://libera.chat/).
-- [reddit.com/r/ansible](https://old.reddit.com/r/ansible/) - The Ansible subreddit.
-- [Discord](https://old.reddit.com/r/ansible/comments/jv5shj/ansible_discord_server_come_get_ansible_help_in/) - The Ansible discord.
+- [Matrix](https://docs.ansible.com/ansible/latest/community/communication.html#ansible-community-on-matrix) (real time chat) - [User help](https://matrix.to/#/#user:ansible.com),  [All Matrix channels](https://matrix.to/#/#space:ansible.com)
+- [reddit.com/r/ansible](https://www.reddit.com/r/ansible/) - The Ansible subreddit.
+- [Discord](https://www.reddit.com/r/ansible/comments/jv5shj/ansible_discord_server_come_get_ansible_help_in/) - The Ansible discord.
 - [ansible.com/community](https://ansible.com/community) - Twitter, mailing lists, meetups and more.
 
 ## Tutorials
@@ -72,7 +72,7 @@
 
 > Tools for and using Ansible.
 
-- [Ansible Tower](https://www.ansible.com/products/tower) - Ansible Tower by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
+- [Ansible Controller](https://www.ansible.com/products/controller) - Ansible Controller (formally Ansible Tower) by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
 - [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
 - [Ansible Lint](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
 - [Ansible Later](https://github.com/thegeeklab/ansible-later) - Another best practice scanner. Checks Playbooks and Roles for best practices and behavior that could potentially be improved.
