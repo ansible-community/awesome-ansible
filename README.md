@@ -103,6 +103,10 @@
 - [Testing Ansible Roles Against Windows with Test-Kitchen](https://hodgkins.io/testing-ansible-roles-windows-test-kitchen) - Using Test-Kitchen with Ansible to apply playbooks to Windows machines and test them with [Pester](https://github.com/pester/Pester/).
 - [Ansible Best Practices by AndiDog](https://andidog.de/blog/2017-04-24-ansible-best-practices) - Practices covering many aspects of an Ansible setup, including hints to support different environments (testing, staging, production).
 
+### Other languages than English
+
+- [Ansible auf My-IT-Brain (German)](https://www.my-it-brain.de/wordpress/category/ansible/) - Articles about different topics regarding Ansbile, e.g. modules, roles, use cases, etc.
+
 ## Playbooks and Roles
 
 > Awesome production ready Playbooks and Roles to get you up and running.
