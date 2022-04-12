@@ -105,7 +105,11 @@
 - [Getting started with Ansible](https://steampunk.si/blog/getting-started-with-ansible/) - Introduces Ansible, provides installation instructions and gives an interactive walkthrough of Ansible's basic functionalities, like running Ansible playbooks and installing Ansible content.
 - [Taking Ansible apart](https://steampunk.si/blog/taking-ansible-apart/) - Describes and shows how most commonly used Ansible components work.
 
-### German
+### Other languages than English
+
+- [Ansible auf My-IT-Brain (German)](https://www.my-it-brain.de/wordpress/category/ansible/) - Articles about different topics regarding Ansbile, e.g. modules, roles, use cases, etc.
+
+## Playbooks and Roles
 
 - [Ansible auf My-IT-Brain](https://www.my-it-brain.de/wordpress/category/ansible/) - Articles about different topics regarding Ansbile, e.g. modules, roles, use cases, etc.
 
