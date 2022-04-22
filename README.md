@@ -107,13 +107,13 @@
 
 - [Ansible auf My-IT-Brain](https://www.my-it-brain.de/wordpress/category/ansible/) - Articles about different topics regarding Ansbile, e.g. modules, roles, use cases, etc.
 
-## Playbooks and Roles
+## Playbooks, Roles and Collections
 
-> Awesome production ready Playbooks and Roles to get you up and running.
+> Awesome production ready Playbooks, Roles and Collections to get you up and running.
 
 - [Ansible Vagrant Examples by geerlingguy](https://github.com/geerlingguy/ansible-vagrant-examples) - Ansible examples using Vagrant to deploy to local VMs.
 - [Ansible playbook for Linux machine setup](https://github.com/olivomarco/my-ansible-linux-setup) - Ansible playbook for setting up a self-updating, hardened Debian/Ubuntu machine with Docker daemon.
-- [System Hardening Framework/Roles](https://galaxy.ansible.com/dev-sec/) - These Roles help you harden your Linux Based OS as well as MySQl, NginX and SSH Server/Services.
+- [DevSec Hardening Framework](https://dev-sec.io/) - The [DevSec collection](https://galaxy.ansible.com/devsec/hardening) helps you harden your Linux Based OS as well as MySQL, NGINX and SSH Server/Services.
 - [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) - Provision and deploy a Docker Swarm cluster to development environment and to production. Infrastructure as Code and DevOps best practices.
 - [Openstack Ansible](https://github.com/openstack/openstack-ansible) - Ansible Playbooks for deploying [OpenStack](https://www.openstack.org/).
 - [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
