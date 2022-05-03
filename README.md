@@ -107,7 +107,9 @@
 
 ### German
 
-- [Ansible auf My-IT-Brain](https://www.my-it-brain.de/wordpress/category/ansible/) - Articles about different topics regarding Ansbile, e.g. modules, roles, use cases, etc.
+- [Ansible: Patch-Management für Red Hat Systeme](https://www.my-it-brain.de/wordpress/ansible-patch-management-fuer-red-hat-systeme/) - A patch management for Red Hat Enterprise Linux.
+-  [Ansible – Was ich am Ad-hoc-Modus schätze](https://www.my-it-brain.de/wordpress/ansible-was-ich-am-ad-hoc-modus-schaetze/) - Opinion what the author likes about the Ansible Ad-Hoc mode.
+-  [https://www.my-it-brain.de/wordpress/ansible-was-ich-am-ad-hoc-modus-schaetze/](https://www.my-it-brain.de/wordpress/konzept-zum-deployment-meines-blogs-mit-ansible/) - An idea how to deploy your Wordpress blog with Ansible.
 
 ## Playbooks and Roles
 
