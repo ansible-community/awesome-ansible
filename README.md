@@ -107,7 +107,7 @@
 
 ### German
 
-- [Ansible auf My-IT-Brain](https://www.my-it-brain.de/wordpress/category/ansible/) - Articles about different topics regarding Ansbile, e.g. modules, roles, use cases, etc.
+- [Ansible – Was ich am Ad-hoc-Modus schätze](https://www.my-it-brain.de/wordpress/ansible-was-ich-am-ad-hoc-modus-schaetze/) - Opinion what the author likes about the Ansible Ad-Hoc mode.
 
 ## Playbooks, Roles and Collections
 
