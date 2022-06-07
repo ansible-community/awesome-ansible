@@ -8,14 +8,17 @@
 <!--lint enable double-link-->
 ## Contents
 
-- [Official resources](#official-resources)
-- [Community](#community)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Videos](#videos)
-- [Tools](#tools)
-- [Blog posts and opinions](#blog-posts-and-opinions)
-- [Playbooks, Roles and Collections](#playbooks-roles-and-collections)
+- [Awesome Ansible ![Awesome](https://awesome.re)](#awesome-ansible-)
+  - [Contents](#contents)
+  - [Official resources](#official-resources)
+  - [Community](#community)
+  - [Tutorials](#tutorials)
+  - [Books](#books)
+  - [Videos](#videos)
+  - [Tools](#tools)
+  - [Blog posts and opinions](#blog-posts-and-opinions)
+    - [German](#german)
+  - [Playbooks, Roles and Collections](#playbooks-roles-and-collections)
 
 ## Official resources
 
@@ -47,6 +50,7 @@
 - [Ansible Tutorials on DigitalOcean](https://www.digitalocean.com/community/tags/ansible?subtype=tutorial) - Basic tutorials on DigitalOcean.com.
 - [Ansible Tutorial by BlueBanquise team](http://bluebanquise.com/documentation/releases/1.5.0/training_ansible.html) - Basic Ansible tutorial.
 - [Ansible Tutorial for Beginners: Playbook & Examples](https://spacelift.io/blog/ansible-tutorial) - Introduction to Ansible for beginners.
+- [Ansible Tutorials for Beginners and Advanced](https://ansible.puzzle.ch/) - Workshop on multiple topics with different levels of difficulty.
 
 ## Books
 
