@@ -8,17 +8,14 @@
 <!--lint enable double-link-->
 ## Contents
 
-- [Awesome Ansible ![Awesome](https://awesome.re)](#awesome-ansible-)
-  - [Contents](#contents)
-  - [Official resources](#official-resources)
-  - [Community](#community)
-  - [Tutorials](#tutorials)
-  - [Books](#books)
-  - [Videos](#videos)
-  - [Tools](#tools)
-  - [Blog posts and opinions](#blog-posts-and-opinions)
-    - [German](#german)
-  - [Playbooks, Roles and Collections](#playbooks-roles-and-collections)
+- [Official resources](#official-resources)
+- [Community](#community)
+- [Tutorials](#tutorials)
+- [Books](#books)
+- [Videos](#videos)
+- [Tools](#tools)
+- [Blog posts and opinions](#blog-posts-and-opinions)
+- [Playbooks, Roles and Collections](#playbooks-roles-and-collections)
 
 ## Official resources
 
