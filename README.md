@@ -113,6 +113,10 @@
 
 - [Ansible – Was ich am Ad-hoc-Modus schätze](https://www.my-it-brain.de/wordpress/ansible-was-ich-am-ad-hoc-modus-schaetze/) - Opinion what the author likes about the Ansible Ad-Hoc mode.
 
+### French
+
+- [Apprendre et Maitriser Ansible l'outil de gestion de configuration](https://blog.stephane-robert.info/post/introduction-ansible/) - A large of courses on Ansible in French
+
 ## Playbooks, Roles and Collections
 
 > Awesome production ready Playbooks, Roles and Collections to get you up and running.
