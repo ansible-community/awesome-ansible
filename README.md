@@ -115,7 +115,7 @@
 
 ### French
 
-- [Apprendre et Maitriser Ansible l'outil de gestion de configuration](https://blog.stephane-robert.info/post/introduction-ansible/) - A large of courses on Ansible in French
+- [Apprendre et Maitriser Ansible l'outil de gestion de configuration](https://blog.stephane-robert.info/post/introduction-ansible/) - A large of courses on Ansible in French.
 
 ## Playbooks, Roles and Collections
 
