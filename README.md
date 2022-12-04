@@ -31,10 +31,23 @@
 > Places where to chat with the Ansible community
 
 - About code - [GitHub.com/ansible](https://github.com/ansible), [GitHub.com/ansible-collections](https://github.com/ansible-collections) and [GitHub.com/ansible-community](https://github.com/ansible-community).
-- [IRC](https://docs.ansible.com/ansible/latest/community/communication.html#irc-channels) - #ansible, #ansible-devel and #ansible-community amongst others on [libera.chat](https://libera.chat/).
 - [reddit.com/r/ansible](https://old.reddit.com/r/ansible/) - The Ansible subreddit.
 - [Discord](https://old.reddit.com/r/ansible/comments/jv5shj/ansible_discord_server_come_get_ansible_help_in/) - The Ansible discord.
 - [ansible.com/community](https://ansible.com/community) - Twitter, mailing lists, meetups and more.
+
+There are also many Ansible IRC channels on [libera.chat](https://libera.chat/) that are bridged to [Matrix](https://matrix.org/).
+You can find the full list and how to connect in the official documentation [documentation](https://docs.ansible.com/ansible/latest/community/communication.html) but here's a few:
+
+| IRC                | Matrix                 | Topic                                                                            |
+|--------------------|------------------------|----------------------------------------------------------------------------------|
+| #ansible           | #users:ansible.com     | General Ansible user support and discussion                                      |
+| #ansible-devel     | #devel:ansible.com     | Developer discussions around code, bugs and features                             |
+| #ansible-community | #community:ansible.com | Community working group, wide range of topics including weekly meetings          |
+| #ansible-docs      | #docs:ansible.com      | Documentation working group, discuss docs and participate in weekly meetings     |
+| #ansible-devtools  | #devtools:ansible.com  | For devtools such as ansible-lint, molecule and the vscode plugin                |
+| #ansible-awx       | #awx:ansible.com       | For the AWX open source project, upstream of Ansible Tower/Automation controller |
+| #ansible-network   | #network:ansible.com   | For general support and discussion around network automation with Ansible        |
+| #ansible-fr        | #francais:ansible.com  | For discussion about Ansible in french                                           |
 
 ## Tutorials
 
