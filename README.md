@@ -143,6 +143,7 @@ You can find the full list and how to connect in the official documentation [doc
 - [DebOps](https://docs.debops.org/en/master/) - A extensive collection of Debian based Ansible Playbooks.
 - [ansible-ssm](https://github.com/HQarroum/ansible-ssm) - An ansible role to provision physical and virtual hosts with the AWS SSM agent.
 - [BlueBanquise](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
+- [ansible-middleware](https://github.com/search?q=topic%3Aansible+org%3Aansible-middleware&type=Repositories&s=updated&o=desc) - Reposirories with ansible topic of the Red Hat Middleware project.
 
 ## Editor and IDE Integrations
 
