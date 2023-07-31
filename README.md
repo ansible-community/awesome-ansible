@@ -87,8 +87,8 @@ You can find the full list and how to connect in the official documentation [doc
 
 > Tools for and using Ansible.
 
-- [Automation Controller](https://www.ansible.com/products/controller) - Automation Controller (formally Ansible Tower) by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
-- [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Tower, a commercial derivative of AWX.
+- [Automation Controller](https://www.ansible.com/products/controller) - Automation Controller (formerly Ansible Tower) by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
+- [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.
 - [Ansible Lint](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
 - [Ansible Later](https://github.com/thegeeklab/ansible-later) - Another best practice scanner. Checks Playbooks and Roles for best practices and behavior that could potentially be improved.
 - [Ansible Doctor](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
@@ -100,7 +100,7 @@ You can find the full list and how to connect in the official documentation [doc
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 - [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
 - [ansible-navigator](https://github.com/ansible/ansible-navigator) - A text-based user interface (TUI) for Ansible.
-- [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Ansible Tower job templates.
+- [squest](https://hewlettpackard.github.io/squest/) - Self-service portal for Automation Controller job templates.
 - [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - Tool which bends containers using Ansible playbooks and turns them into container images.
 - [ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
 - [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/) - Using Ansible content that depends on non-default dependencies can be tricky. Packages must be installed on each node, play nicely with other software installed on the host system, and be kept in sync.
