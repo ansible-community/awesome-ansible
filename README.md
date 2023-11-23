@@ -62,6 +62,7 @@ You can find the full list and how to connect in the official documentation [doc
 - [Ansible Tutorial by BlueBanquise team](http://bluebanquise.com/documentation/releases/1.5.0/training_ansible.html) - Basic Ansible tutorial.
 - [Ansible Tutorial for Beginners: Playbook & Examples](https://spacelift.io/blog/ansible-tutorial) - Introduction to Ansible for beginners.
 - [Ansible Tutorials for Beginners and Advanced](https://ansible.puzzle.ch/) - Workshop on multiple topics with different levels of difficulty.
+- [Ansible For DevOps](https://github.com/geerlingguy/ansible-for-devops) - This repository contains Ansible examples developed to support different sections of [Ansible for DevOps](https://www.ansiblefordevops.com), a book on Ansible by Jeff Geerling.
 
 ## Books
 
