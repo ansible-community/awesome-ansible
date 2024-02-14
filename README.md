@@ -113,6 +113,7 @@ You can find the full list and how to connect in the official documentation [doc
 - [Steampunk Spotter](https://steampunk.si/spotter/) - Provides an Assisted Automation Writing tool that analyzes and offers recommendations for your Ansible Playbooks.
 - [ansible-roster](https://gitlab.com/jlecomte/ansible/ansible-roster) - Ansible Roster inventory plugin to generate inventory from a host oriented yaml file. Supports ranges, regex hostnames, file inclusions, and variable merging.
 - [Monkeyble](https://hewlettpackard.github.io/monkeyble/) - A callback plugin that allow to execute end-to-end tests on playbooks with a Pythonic testing and CI/CD approach to detect regressions.
+- [antsichaut](https://github.com/ansible-community/antsichaut) - automate the filling of a changelog.yaml used by antsibull-changelog. 
 
 ## Blog posts and opinions
 
