@@ -6,7 +6,7 @@ This is a collaborative community curated list of awesome Ansible resources, too
 
 [Ansible](https://www.ansible.com/) is an open source toolkit, written in Python, it is used for  configuration management, application deployment, continuous delivery, IT infrastructure automation and automation in general.
 
-:warning: For project maintainers, before editing the list to add your project, take a look at the [Ansible ecosystem project development resources](https://docs.ansible.com/ansible/devel/community/ecosystem_project_resources.html). Learn how to set up a repository in a recommended way as well as the type of documentation a project should include: there's a link to a ready-to-use docsite template you can easily fill in and build the documentation from using Sphynx. Even if your project is mature, we recommend you read it carefully to check if there's anything to improve in both your project and the resources. Let's make sure our users, contributors, and maintainers have the best possible experience!
+:warning: Before editing the list to add your project, take a look at the [Ansible ecosystem project development resources](https://docs.ansible.com/ansible/devel/community/ecosystem_project_resources.html). Let's make sure our users, contributors, and maintainers have the best possible experience!
 
 <!--lint enable double-link-->
 
@@ -34,10 +34,10 @@ This is a collaborative community curated list of awesome Ansible resources, too
 
 Join the Ansible forum:
 
-- [Get Help](https://forum.ansible.com/c/help/6): get help or help others. Please add appropriate tags if you start new discussions.
-- [Bullhorn newsletter](https://docs.ansible.com/ansible/devel/community/communication.html#the-bullhorn): used to announce releases and important changes.
-- [Social Spaces](https://forum.ansible.com/c/chat/4): gather and interact with fellow enthusiasts.
-- [News & Announcements](https://forum.ansible.com/c/news/5): track project-wide announcements including social events.
+- [Get Help](https://forum.ansible.com/c/help/6) - Get help or help others. Please add appropriate tags if you start new discussions.
+- [Bullhorn newsletter](https://docs.ansible.com/ansible/devel/community/communication.html#the-bullhorn) - Used to announce releases and important changes.
+- [Social Spaces](https://forum.ansible.com/c/chat/4) - Gather and interact with fellow enthusiasts.
+- [News & Announcements](https://forum.ansible.com/c/news/5) - Track project-wide announcements including social events.
 
 For more information about communication, see the [Ansible communication guide](https://docs.ansible.com/ansible/devel/community/communication.html).
 
