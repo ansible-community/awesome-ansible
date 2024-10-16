@@ -9,6 +9,7 @@ This is a collaborative community curated list of awesome Ansible resources, too
 :warning: Before editing the list to add your project, take a look at the [Ansible ecosystem project development resources](https://docs.ansible.com/ansible/devel/community/ecosystem_project_resources.html). Let's make sure our users, contributors, and maintainers have the best possible experience!
 
 <!--lint enable double-link-->
+<!--lint disable-->
 
 ## Contents
 
@@ -25,6 +26,8 @@ This is a collaborative community curated list of awesome Ansible resources, too
     - [French](#french)
   - [Playbooks, Roles and Collections](#playbooks-roles-and-collections)
   - [Editor and IDE Integrations](#editor-and-ide-integrations)
+
+<!--lint enable-->
 
 ## Official resources
 
