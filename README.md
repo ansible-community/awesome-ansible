@@ -2,21 +2,32 @@
 <!--lint disable double-link-->
 [<img src="ansible_logo.svg" align="right" width="90">](https://www.ansible.com/)
 
-> A collaborative curated list of awesome Ansible resources, tools, Roles, tutorials and other related stuff.
+This is a collaborative community curated list of awesome Ansible resources, tools, Roles, tutorials and other related stuff.
 
 [Ansible](https://www.ansible.com/) is an open source toolkit, written in Python, it is used for  configuration management, application deployment, continuous delivery, IT infrastructure automation and automation in general.
+
+:warning: Before editing the list to add your project, take a look at the [Ansible ecosystem project development resources](https://docs.ansible.com/ansible/devel/community/ecosystem_project_resources.html). Let's make sure our users, contributors, and maintainers have the best possible experience!
+
 <!--lint enable double-link-->
+<!--lint disable-->
+
 ## Contents
 
-- [Official resources](#official-resources)
-- [Community](#community)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Videos](#videos)
-- [Tools](#tools)
-- [Blog posts and opinions](#blog-posts-and-opinions)
-- [Playbooks, Roles and Collections](#playbooks-roles-and-collections)
-- [Editor and IDE Integrations](#editor-and-ide-integrations)
+- [Awesome Ansible ](#awesome-ansible-)
+  - [Contents](#contents)
+  - [Official resources](#official-resources)
+  - [Community](#community)
+  - [Tutorials](#tutorials)
+  - [Books](#books)
+  - [Videos](#videos)
+  - [Tools](#tools)
+  - [Blog posts and opinions](#blog-posts-and-opinions)
+    - [German](#german)
+    - [French](#french)
+  - [Playbooks, Roles and Collections](#playbooks-roles-and-collections)
+  - [Editor and IDE Integrations](#editor-and-ide-integrations)
+
+<!--lint enable-->
 
 ## Official resources
 
@@ -28,26 +39,16 @@
 
 ## Community
 
-> Places where to chat with the Ansible community
+Join the Ansible forum:
 
-- About code - [GitHub.com/ansible](https://github.com/ansible), [GitHub.com/ansible-collections](https://github.com/ansible-collections) and [GitHub.com/ansible-community](https://github.com/ansible-community).
-- [reddit.com/r/ansible](https://old.reddit.com/r/ansible/) - The Ansible subreddit.
-- [Discord](https://old.reddit.com/r/ansible/comments/jv5shj/ansible_discord_server_come_get_ansible_help_in/) - The Ansible discord.
-- [ansible.com/community](https://ansible.com/community) - Twitter, mailing lists, meetups and more.
+<!--lint disable double-link-->
+- [Get Help](https://forum.ansible.com/c/help/6) - Get help or help others. Please add appropriate tags if you start new discussions.
+- [Bullhorn newsletter](https://docs.ansible.com/ansible/devel/community/communication.html#the-bullhorn) - Used to announce releases and important changes.
+- [Social Spaces](https://forum.ansible.com/c/chat/4) - Gather and interact with fellow enthusiasts.
+- [News & Announcements](https://forum.ansible.com/c/news/5) - Track project-wide announcements including social events.
 
-There are also many Ansible IRC channels on [libera.chat](https://libera.chat/) that are bridged to [Matrix](https://matrix.org/).
-You can find the full list and how to connect in the official documentation [documentation](https://docs.ansible.com/ansible/latest/community/communication.html) but here's a few:
-
-| IRC                | Matrix                 | Topic                                                                            |
-|--------------------|------------------------|----------------------------------------------------------------------------------|
-| #ansible           | #users:ansible.com     | General Ansible user support and discussion                                      |
-| #ansible-devel     | #devel:ansible.com     | Developer discussions around code, bugs and features                             |
-| #ansible-community | #community:ansible.com | Community working group, wide range of topics including weekly meetings          |
-| #ansible-docs      | #docs:ansible.com      | Documentation working group, discuss docs and participate in weekly meetings     |
-| #ansible-devtools  | #devtools:ansible.com  | For devtools such as ansible-lint, molecule and the vscode plugin                |
-| #ansible-awx       | #awx:ansible.com       | For the AWX open source project, upstream of Ansible Tower/Automation controller |
-| #ansible-network   | #network:ansible.com   | For general support and discussion around network automation with Ansible        |
-| #ansible-fr        | #francais:ansible.com  | For discussion about Ansible in french                                           |
+For more information about communication, see the [Ansible communication guide](https://docs.ansible.com/ansible/devel/community/communication.html).
+<!--lint enable double-link-->
 
 ## Tutorials
 
@@ -62,7 +63,7 @@ You can find the full list and how to connect in the official documentation [doc
 - [Ansible Tutorial by BlueBanquise team](http://bluebanquise.com/documentation/releases/1.5.0/training_ansible.html) - Basic Ansible tutorial.
 - [Ansible Tutorial for Beginners: Playbook & Examples](https://spacelift.io/blog/ansible-tutorial) - Introduction to Ansible for beginners.
 - [Ansible Tutorials for Beginners and Advanced](https://ansible.puzzle.ch/) - Workshop on multiple topics with different levels of difficulty.
-- [Ansible For DevOps](https://github.com/geerlingguy/ansible-for-devops) - This repository contains Ansible examples developed to support different sections of [Ansible for DevOps](https://www.ansiblefordevops.com), a book on Ansible by Jeff Geerling.
+- [Ansible For DevOps](https://github.com/geerlingguy/ansible-for-devops) - This repository contains Ansible examples developed to support different sections of `Ansible for DevOps` by Jeff Geerling, which is listed in the following section of books about Ansible.
 
 ## Books
 
@@ -105,7 +106,7 @@ You can find the full list and how to connect in the official documentation [doc
 - [ansible-bender](https://ansible-community.github.io/ansible-bender/build/html/index.html) - Tool which bends containers using Ansible playbooks and turns them into container images.
 - [ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported.
 - [ansible-builder](https://ansible-builder.readthedocs.io/en/latest/) - Using Ansible content that depends on non-default dependencies can be tricky. Packages must be installed on each node, play nicely with other software installed on the host system, and be kept in sync.
-- [kics](https://github.com/Checkmarx/kics) - SAST Tool that scans your ansible infrastructure as code playbooks for security vulnverables, compliance issues and misconfigurations.
+- [kics](https://github.com/Checkmarx/kics) - SAST Tool that scans your ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
 - [php-ansible Library](https://github.com/maschmann/php-ansible) - OOP-Wrapper for Ansible, making Ansible available in PHP.
 - [TD4A](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
 - [Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
@@ -115,7 +116,7 @@ You can find the full list and how to connect in the official documentation [doc
 - [ansible-roster](https://gitlab.com/jlecomte/ansible/ansible-roster) - Ansible Roster inventory plugin to generate inventory from a host oriented yaml file. Supports ranges, regex hostnames, file inclusions, and variable merging.
 - [Monkeyble](https://hewlettpackard.github.io/monkeyble/) - A callback plugin that allow to execute end-to-end tests on playbooks with a Pythonic testing and CI/CD approach to detect regressions.
 - [aar-doc - Automated Ansible Role Documentation](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation) - Generate documentation automatically from an Ansible role's metadata.
-- [antsichaut](https://github.com/ansible-community/antsichaut) - automate the filling of a changelog.yaml used by antsibull-changelog. 
+- [antsichaut](https://github.com/ansible-community/antsichaut) - Automate the filling of a changelog.yaml used by antsibull-changelog.
 
 ## Blog posts and opinions
 
