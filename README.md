@@ -131,6 +131,7 @@ For more information about communication, see the [Ansible communication guide](
 - [Getting started with Ansible](https://steampunk.si/blog/getting-started-with-ansible/) - Introduces Ansible, provides installation instructions and gives an interactive walkthrough of Ansible's basic functionalities, like running Ansible playbooks and installing Ansible content.
 - [Taking Ansible apart](https://steampunk.si/blog/taking-ansible-apart/) - Describes and shows how most commonly used Ansible components work.
 - [Enhancing Ansible Development with SOLID Principles](https://github.com/kksat/SOLID-Ansible) - Discover how the fundamental principles of SOLID—Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion—can significantly elevate your Ansible role and playbook development.
+- [Functional programming design patterns in Ansible code](https://kksat.github.io/talks/2025/functional-ansible/) - Borrowing functional programming (FP) principles to improve Ansible code quality. How to adopt functional patterns like pure functions, clear separation of effects, immutability, composition, and lazy evaluation can make Ansible automation far easier to test, debug, understand, and extend.
 
 ### German
 
