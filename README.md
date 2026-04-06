@@ -11,6 +11,7 @@ This is a collaborative community curated list of awesome Ansible resources, too
 <!--lint enable double-link-->
 <!--lint disable-->
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for infrastructure automation, multi-agent orchestration with task delegation and automated configuration management. MIT licensed.
 ## Contents
 
 - [Awesome Ansible ](#awesome-ansible-)
