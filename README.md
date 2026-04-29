@@ -41,14 +41,14 @@ This is a collaborative community curated list of awesome Ansible resources, too
 
 Join the Ansible forum:
 
-<!--lint disable double-link no-repeat-item-in-description-->
-- [Get Help](https://forum.ansible.com/c/help/6) - Get help or help others. Please add appropriate tags if you start new discussions.
+<!--lint disable double-link-->
+- [Get Help](https://forum.ansible.com/c/help/6) - Forum for asking and answering questions. Please add appropriate tags if you start new discussions.
 - [Bullhorn newsletter](https://docs.ansible.com/ansible/devel/community/communication.html#the-bullhorn) - Used to announce releases and important changes.
 - [Social Spaces](https://forum.ansible.com/c/chat/4) - Gather and interact with fellow enthusiasts.
 - [News & Announcements](https://forum.ansible.com/c/news/5) - Track project-wide announcements including social events.
 
 For more information about communication, see the [Ansible communication guide](https://docs.ansible.com/ansible/devel/community/communication.html).
-<!--lint enable double-link no-repeat-item-in-description-->
+<!--lint enable double-link-->
 
 ## Tutorials
 
@@ -79,7 +79,7 @@ For more information about communication, see the [Ansible communication guide](
 > Video tutorials and Ansible training.
 
 - [Ansible YouTube Channel](https://www.youtube.com/channel/UCPJo5UY1KsP7J1BuHmiWNzQ) - Official Ansible YouTube channel.
-- [Introduction to Ansible](https://youtu.be/iVWmbStE1MM) - Introduction to Ansible by Cloud Academy.
+- [Introduction to Ansible](https://youtu.be/iVWmbStE1MM) - A beginner-friendly overview by Cloud Academy.
 - [Ansible 101 by Jeff Geerling](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-youtube-streaming-series) - Great video series on Ansible, by Jeff Geerling.
 - [Ansible TopTechSkills.com Tutorial Series on YouTube](https://www.youtube.com/playlist?list=PLMyOob-UkeytIleCbMlFfCzaunOh27hm6) - Video tutorials on Ansible.
 - [Ansible Essentials - Course](https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview) - Free Video Classroom on Ansible essentials by Red Hat.
@@ -89,16 +89,16 @@ For more information about communication, see the [Ansible communication guide](
 ## Tools
 
 > Tools for and using Ansible.
-<!--lint disable no-repeat-item-in-description-->
-- [Automation Controller](https://www.ansible.com/products/controller) - Automation Controller (formerly Ansible Tower) by Red Hat helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
-- [AWX](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller, a commercial derivative of AWX.
+
+- [Automation Controller](https://www.ansible.com/products/controller) - Formerly Ansible Tower, this Red Hat product helps you scale IT automation, manage complex deployments and speed productivity. Extend the power of Ansible to your entire team.
+- [AWX](https://github.com/ansible/awx) - Web-based user interface, REST API, and task engine built on top of Ansible. It is the upstream project for Automation Controller.
 - [Ansible Lint](https://github.com/ansible/ansible-lint) - Checks Playbooks for best practices and behavior that could potentially be improved.
 - [Ansible Doctor](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
 - [Ansible cmdb](https://github.com/fboender/ansible-cmdb) - Takes the output of Ansible's fact gathering and converts it into a static HTML page.
-- [ARA](https://github.com/ansible-community/ara) - ARA Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.
+- [ARA](https://github.com/ansible-community/ara) - Records Ansible playbooks and makes them easier to understand and troubleshoot with a reporting API, UI and CLI.
 - [Ansible Inventory Grapher](https://github.com/willthames/ansible-inventory-grapher) - Displays inventory inheritance hierarchies and the level at which variables are defined in an inventory.
 - [Mitogen for Ansible](https://mitogen.networkgenomics.com/ansible_detailed.html) - Speed up Ansible substantially with Mitogen.
-- [Molecule](https://molecule.readthedocs.io/en/latest/) - Molecule aids in the development and testing of Ansible roles.
+- [Molecule](https://molecule.readthedocs.io/en/latest/) - Framework for developing and testing Ansible roles.
 - [Packer Ansible Provisioner](https://www.packer.io/plugins/provisioners/ansible/ansible-local) - This Provisioner can be used to automate VM Image creation via Packer with Ansible.
 - [Excel Ansible Inventory](https://github.com/KeyboardInterrupt/ansible_xlsx_inventory) - Turn any Excel Spreadsheet into an Ansible Inventory.
 - [terraform.py](https://github.com/mantl/terraform.py) - Ansible dynamic inventory script for parsing Terraform state files.
@@ -113,7 +113,7 @@ For more information about communication, see the [Ansible communication guide](
 - [TD4A](https://github.com/cidrblock/td4a) - Design aid for building and testing jinja2 templates, combines data in yaml format with a jinja2 template and render the output.
 - [Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) - Command line tool to create a graph representing your Ansible playbook plays, tasks and roles.
 - [ansible-doc-extractor](https://github.com/xlab-steampunk/ansible-doc-extractor) - A tool that extracts documentation from Ansible modules in the HTML form.
-- [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore) - Ansible Semaphore is a modern UI for Ansible.
+- [Ansible Semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for managing and running Ansible playbooks.
 - [Steampunk Spotter](https://steampunk.si/spotter/) - Provides an Assisted Automation Writing tool that analyzes and offers recommendations for your Ansible Playbooks.
 - [ansible-roster](https://gitlab.com/jlecomte/ansible/ansible-roster) - Ansible Roster inventory plugin to generate inventory from a host oriented yaml file. Supports ranges, regex hostnames, file inclusions, and variable merging.
 - [Monkeyble](https://hewlettpackard.github.io/monkeyble/) - A callback plugin that allow to execute end-to-end tests on playbooks with a Pythonic testing and CI/CD approach to detect regressions.
@@ -121,7 +121,7 @@ For more information about communication, see the [Ansible communication guide](
 - [antsichaut](https://github.com/ansible-community/antsichaut) - Automate the filling of a changelog.yaml used by antsibull-changelog.
 - [ansibledb](https://github.com/nbentoumi/ansibledb) - Flask API Web server that uses MongoDB as database to store Ansible reports and facts; this tool can be used to query hosts and facters managed Ansible as well search Ansible logs.
 - [Ansible Template Playground](https://tech-playground.com/playgrounds/ansible-template/) - Online playground for running, testing and sharing Ansible templates.
-<!--lint disable no-repeat-item-in-description-->
+- [YAML Validator](https://yamlvalidator.dev), [(chrome extension)](https://chromewebstore.google.com/detail/yaml-validator/gjgbohnlhijomhfiflapnlnmcpckgigg) - Online YAML validator and formatter with Ansible JSON Schema validation. The Chrome extension also adds YAML code folding on GitHub.
 
 ## Blog posts and opinions
 
