@@ -64,6 +64,7 @@ For more information about communication, see the [Ansible communication guide](
 - [Ansible Tutorial for Beginners: Playbook & Examples](https://spacelift.io/blog/ansible-tutorial) - Introduction to Ansible for beginners.
 - [Ansible Tutorials for Beginners and Advanced](https://ansible.puzzle.ch/) - Workshop on multiple topics with different levels of difficulty.
 - [Ansible For DevOps](https://github.com/geerlingguy/ansible-for-devops) - This repository contains Ansible examples developed to support different sections of `Ansible for DevOps` by Jeff Geerling, which is listed in the following section of books about Ansible.
+- [Ansible Tutorial by Compute Central](https://computecentral.in/ansible/) - A practical, example-driven Ansible guide covering fundamentals, playbooks, roles, collections, custom module and collection development, production practices, troubleshooting, and interview preparation.
 
 ## Books
 
