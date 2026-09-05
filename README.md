@@ -163,6 +163,7 @@ For more information about communication, see the [Ansible communication guide](
 - [BlueBanquise](https://github.com/bluebanquise/bluebanquise) - An Ansible coherent roles collection to deploy clusters.
 - [redhat-cop](https://github.com/search?q=topic%3Aansible+org%3Aredhat-cop&type=Repositories&s=updated&o=desc) - Repositories with Ansible topic of the Red Hat Communities of Practice project.
 - [Linuxfabrik LFOps](https://github.com/Linuxfabrik/lfops) - An Ansible Collection with 145+ playbooks and 160+ roles to bootstrap and manage Linux infrastructure (RHEL 8/9/10, Debian, Ubuntu). Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM and Bitwarden integration.
+- [ansible-role-ictpbx](https://github.com/ictinnovations/ansible-role-ictpbx) - An Ansible role to install ICTPBX Community Edition, an open source multi-tenant IP PBX built on FreeSWITCH, on Rocky Linux or CentOS Stream.
 
 ## Editor and IDE Integrations
 
