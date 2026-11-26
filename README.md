@@ -6,7 +6,7 @@ This is a collaborative community curated list of awesome Ansible resources, too
 
 [Ansible](https://www.ansible.com/) is an open source toolkit, written in Python, it is used for  configuration management, application deployment, continuous delivery, IT infrastructure automation and automation in general.
 
-:warning: Ansible Roles: By design, we don't include Ansible Roles in the list, that's what [Ansible Galaxy](https://galaxy.ansible.com/) is for. You can also open a discussion about your collection on [forum.ansibl.com](https://forum.ansible.com/).
+:warning: Ansible Collections/Roles: By design, we don't include collections and roles in the list, that's what [Ansible Galaxy](https://galaxy.ansible.com/) is for. You can also open a discussion about your collection on [forum.ansibl.com](https://forum.ansible.com/).
 
 :warning: Before editing the list to add your project, take a look at the [Ansible ecosystem project development resources](https://docs.ansible.com/ansible/devel/community/ecosystem_project_resources.html). Let's make sure our users, contributors, and maintainers have the best possible experience!
 
