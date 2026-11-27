@@ -128,6 +128,7 @@ For more information about communication, see the [Ansible communication guide](
 - [speedrunner](https://github.com/anthonyGosme/speedrunner) - Cuts the start-up time of `ansible`, `ansible-doc` and other Ansible commands by serving them from a preloaded daemon, which helps scripts that call them many times.
 - [YAML Validator](https://yamlvalidator.dev), [(chrome extension)](https://chromewebstore.google.com/detail/yaml-validator/gjgbohnlhijomhfiflapnlnmcpckgigg) - Online YAML validator and formatter with Ansible JSON Schema validation. The Chrome extension also adds YAML code folding on GitHub.
 - [Netforge.ai](https://netforge.ai) - Network design tool that turns a topology drawing into a ready-to-run Ansible project: inventory grouped by platform, per-device host_vars, per-platform group_vars and a playbook per platform.
+- [Tangsible](https://github.com/claude42/tangsible) - An interactive workbench for Ansible to run and debug playbooks, inspect variables and their origins, render Jinja2 templates, manage vaulted variables, build execution environments - and more.
 
 ## Blog posts and opinions
 
